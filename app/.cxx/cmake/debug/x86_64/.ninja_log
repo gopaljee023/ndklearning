@@ -1,0 +1,5 @@
+# ninja log v5
+0	2194	1611800082	CMakeFiles/native-lib.dir/native-lib.cpp.o	7f7432ae63330f79
+2197	2390	1611800082	/Users/gopaljee/Downloads/NDLlearning/app/build/intermediates/cmake/debug/obj/x86_64/libnative-lib.so	d76597d6f3c7e82c
+5	773	1611800904	CMakeFiles/native-lib.dir/native-lib.cpp.o	7f7432ae63330f79
+773	927	1611800904	/Users/gopaljee/Downloads/NDLlearning/app/build/intermediates/cmake/debug/obj/x86_64/libnative-lib.so	d76597d6f3c7e82c
